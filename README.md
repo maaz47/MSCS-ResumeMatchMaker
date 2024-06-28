@@ -51,7 +51,7 @@ In summary, this project represents a targeted effort to harness Generative AI t
 
 The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process
 
-## **Key Benefits** 
+### **Key Benefits** 
 - **Time Efficiency:**  
 - **Improved Accuracy:**  
 - **Enhanced Candidate Experience:** 
@@ -96,8 +96,7 @@ The project flow for the Chatbot system designed for HR departments unfolds as f
 
 By following this flow, the Chatbot facilitates a systematic approach to recruitment, ensuring that both job descriptions and candidate evaluations are grounded in objective criteria and comprehensive analysis.
 
-
-2. ## **Technical Architecture**
+## **Technical Architecture**
 ![Technical Architecture](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.005.png)
 
 
