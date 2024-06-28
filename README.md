@@ -8,22 +8,6 @@ Key benefits include time savings through automated resume screening, improved o
 
 In summary, this Chatbot system aims to simplify recruitment processes, making them more efficient and fairer for both HR professionals and candidates.
 
-***Keywords:***
-
-LLM - Large Language Models
-
-DB - Database
-
-API – Application Programming Interface
-
-AI – Artificial Intelligence
-
-Gen AI – Generative AI
-
-GPT – Generative Pretraining Transformer
-
-HR – Human Resources
-
 # **Introduction**
 While advancements in technology have transformed various aspects of HR management, the industry continues to grapple with several persistent challenges that affect recruitment processes. These challenges underscore the critical need for innovative solutions such as the proposed Chatbot assistance system:
 
