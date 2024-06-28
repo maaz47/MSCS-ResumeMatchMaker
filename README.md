@@ -37,13 +37,7 @@ While advancements in technology have transformed various aspects of HR manageme
 ![Challenges](Images/HRChallenge.jpg)
 
 Addressing these challenges requires innovative solutions that not only automate and streamline processes but also enhance the objectivity and efficiency of candidate evaluation. Our Chatbot assistance system aims to alleviate these pain points by providing HR professionals with a reliable tool for efficient resume screening and candidate matching, thereby improving overall recruitment outcomes.
-
-The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process
-
-## **Key Benefits** 
-- **Time Efficiency:**  
-- **Improved Accuracy:**  
-- **Enhanced Candidate Experience:**  
+ 
 
 # **Project Scope**
 This project aims to develop a specialized Chatbot system tailored specifically for HR departments, integrating Generative AI technology. The primary objective of the system is to automate and streamline the initial stages of the recruitment process by generating accurate matching scores between job descriptions (JD) and candidates' resumes. The project will involve the following key tasks:
@@ -54,6 +48,14 @@ This project aims to develop a specialized Chatbot system tailored specifically 
 - **Enhancing Natural Language Understanding:**
 
 In summary, this project represents a targeted effort to harness Generative AI technology to address specific challenges within HR recruitment processes. By automating initial screening tasks and enhancing accuracy through advanced AI capabilities, the system aims to optimize HR professionals' efficiency while improving overall recruitment outcomes.
+
+The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process
+
+## **Key Benefits** 
+- **Time Efficiency:**  
+- **Improved Accuracy:**  
+- **Enhanced Candidate Experience:** 
+
 
 ## **User and System Interaction**
 ![Use Case](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png)
