@@ -45,10 +45,9 @@ Addressing these challenges requires innovative solutions that not only automate
 The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process
 
 ## **Key Benefits** 
-**Time Efficiency:**
-**Improved Accuracy:** 
-**Enhanced Candidate Experience:** 
-
+- **Time Efficiency:**  
+- **Improved Accuracy:**  
+- **Enhanced Candidate Experience:**  
 
 # **Project Scope**
 This project aims to develop a specialized Chatbot system tailored specifically for HR departments, integrating Generative AI technology. The primary objective of the system is to automate and streamline the initial stages of the recruitment process by generating accurate matching scores between job descriptions (JD) and candidates' resumes. The project will involve the following key tasks:
@@ -57,7 +56,7 @@ This project aims to develop a specialized Chatbot system tailored specifically 
 - **Implementing Generative AI for Job Description:**
 - **Implementing Generative AI for Matching Scores:**
 - **Enhancing Natural Language Understanding:**
-- 
+
 In summary, this project represents a targeted effort to harness Generative AI technology to address specific challenges within HR recruitment processes. By automating initial screening tasks and enhancing accuracy through advanced AI capabilities, the system aims to optimize HR professionals' efficiency while improving overall recruitment outcomes.
 
 ## **User and System Interaction**
