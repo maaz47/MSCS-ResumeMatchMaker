@@ -28,17 +28,14 @@ HR – Human Resources
 # **Introduction**
 While advancements in technology have transformed various aspects of HR management, the industry continues to grapple with several persistent challenges that affect recruitment processes. These challenges underscore the critical need for innovative solutions such as the proposed Chatbot assistance system:
 
-**Overwhelming Volume of Applications:**
+- **Overwhelming Volume of Applications**
+- **Subjective Bias in Screening**
+- **Time-Intensive Manual Processes**
+- **Candidate Expectations for Swift Feedback**
+- **Alignment with Evolving Job Market Needs**
+- **Pressure to Enhance Employer Branding**
 
-**Subjective Bias in Screening:**
-
-**Time-Intensive Manual Processes:**
-
-**Candidate Expectations for Swift Feedback:**
-
-**Alignment with Evolving Job Market Needs:**
-
-**Pressure to Enhance Employer Branding:**
+![Use Case](Images/HRChallenge.Jpg)
 
 Addressing these challenges requires innovative solutions that not only automate and streamline processes but also enhance the objectivity and efficiency of candidate evaluation. Our Chatbot assistance system aims to alleviate these pain points by providing HR professionals with a reliable tool for efficient resume screening and candidate matching, thereby improving overall recruitment outcomes.
 
