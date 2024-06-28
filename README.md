@@ -116,7 +116,7 @@ Each selected technology component plays a critical role in the system's archite
 
 
 # **Deployment and End Result**
-![Screenshot](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png)
+![Screenshot](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.006.png)
 
 The application is developed on Streamlit and can be deployed on the same server on Free Tier.
 
