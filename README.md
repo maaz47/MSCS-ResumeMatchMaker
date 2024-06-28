@@ -126,11 +126,11 @@ As technology advances and user requirements evolve, it is prudent to outline po
 
 Below are specific recommendations to enrich the functionality of the system:
 
-**Integration of React for Enhanced Frontend:**
-**Introduction of Session Management:**
-**Deployment as an API for Seamless Integration:**
-**Implementation of Interview Plan and Questions:**
-**Capability to Record Candidate Responses using Generative AI:**
+- **Integration of React for Enhanced Frontend:**  
+- **Introduction of Session Management:**  
+- **Deployment as an API for Seamless Integration:**  
+- **Implementation of Interview Plan and Questions:**  
+- **Capability to Record Candidate Responses using Generative AI:**  
 
 These future enhancements aim to further elevate the functionality and utility of the system, aligning it with evolving technological trends and enhancing its value proposition to HR departments. By focusing on these recommendations, the system can adapt and scale effectively to meet the dynamic needs of recruitment processes while ensuring optimal user experience and operational efficiency.
 
