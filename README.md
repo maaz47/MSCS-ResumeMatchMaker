@@ -61,7 +61,7 @@ This project aims to develop a specialized Chatbot system tailored specifically 
 In summary, this project represents a targeted effort to harness Generative AI technology to address specific challenges within HR recruitment processes. By automating initial screening tasks and enhancing accuracy through advanced AI capabilities, the system aims to optimize HR professionals' efficiency while improving overall recruitment outcomes.
 
 ## **User and System Interaction**
-Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png
+![Use Case](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png)
 
 There are 2 actors in the system 
 
