@@ -1,6 +1,5 @@
-**HR Match Maker**
+# **HR Match Maker**
 
-<a name="_toc153862916"></a><a name="_toc156715634"></a><a name="_toc357866676"></a>
 # **Abstract**
 
 This project focuses on creating a Chatbot system for HR departments to streamline the initial stages of the recruitment process. The system utilizes artificial intelligence to assess job descriptions and candidates' resumes, providing HR professionals with an efficient tool for candidate shortlisting.
@@ -35,7 +34,7 @@ While advancements in technology have transformed various aspects of HR manageme
 - **Alignment with Evolving Job Market Needs**
 - **Pressure to Enhance Employer Branding**
 
-![Use Case](Images/HRChallenge.Jpg)
+![Challenges](Images/HRChallenge.jpg)
 
 Addressing these challenges requires innovative solutions that not only automate and streamline processes but also enhance the objectivity and efficiency of candidate evaluation. Our Chatbot assistance system aims to alleviate these pain points by providing HR professionals with a reliable tool for efficient resume screening and candidate matching, thereby improving overall recruitment outcomes.
 
