@@ -1,7 +1,7 @@
 **HR Match Maker**
 
 <a name="_toc153862916"></a><a name="_toc156715634"></a><a name="_toc357866676"></a>
-# <a name="_toc170262438"></a>**Abstract**
+# **Abstract**
 
 This project focuses on creating a Chatbot system for HR departments to streamline the initial stages of the recruitment process. The system utilizes artificial intelligence to assess job descriptions and candidates' resumes, providing HR professionals with an efficient tool for candidate shortlisting.
 
@@ -42,14 +42,12 @@ While advancements in technology have transformed various aspects of HR manageme
 
 Addressing these challenges requires innovative solutions that not only automate and streamline processes but also enhance the objectivity and efficiency of candidate evaluation. Our Chatbot assistance system aims to alleviate these pain points by providing HR professionals with a reliable tool for efficient resume screening and candidate matching, thereby improving overall recruitment outcomes.
 
-The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process<a name="_toc156715635"></a><a name="_toc357866678"></a><a name="_toc426804158"></a><a name="_toc428610205"></a><a name="_toc428611133"></a><a name="_toc428611914"></a>.
+The project is designed to generate matching scores between job descriptions (JD) and candidates' resumes. Through the integration of artificial intelligence, this system seeks to streamline the initial stages of the recruitment process
 
 ## **Key Benefits** 
-1. **Time Efficiency:**
-The implementation of the Chatbot in our HR processes is expected to bring about substantial time savings by automating the initial screening of resumes. Currently, HR personnel spend a significant amount of time manually reviewing each application, which can be a time-consuming task. By automating this process, we estimate a significant reduction in the time spent on initial screening. This efficiency gain allows HR professionals to redirect their efforts towards more strategic activities, such as conducting in-depth interviews and focusing on talent development initiatives.
-1. **Improved Accuracy:** 
-Utilizing AI technology enables our system to deliver more consistent and objective candidate matching scores. Traditional methods of resume screening may inadvertently introduce biases based on factors such as name, gender, or educational background. The Chatbot, however, evaluates candidates solely based on predefined criteria related to job requirements, thereby minimizing the risk of human bias. This enhancement in accuracy ensures that qualified candidates are fairly evaluated, leading to a more equitable hiring process.
-1. ### **Enhanced Candidate Experience:** 
+**Time Efficiency:**
+**Improved Accuracy:** 
+**Enhanced Candidate Experience:** 
 
 
 # **Project Scope**
@@ -63,7 +61,7 @@ This project aims to develop a specialized Chatbot system tailored specifically 
 In summary, this project represents a targeted effort to harness Generative AI technology to address specific challenges within HR recruitment processes. By automating initial screening tasks and enhancing accuracy through advanced AI capabilities, the system aims to optimize HR professionals' efficiency while improving overall recruitment outcomes.
 
 ## **User and System Interaction**
-![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png)
+Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png
 
 There are 2 actors in the system 
 
@@ -87,9 +85,7 @@ System
 
 # **Solution Design**
 ## **Application Flow**
-![A diagram of a job description
-
-Description automatically generated](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.004.png)
+![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.004.png)
 
 **Flow:**
 
@@ -120,7 +116,9 @@ Each selected technology component plays a critical role in the system's archite
 
 
 # **Deployment and End Result**
-![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.006.png)The application is developed on Streamlit and can be deployed on the same server on Free Tier.
+![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.006.png)
+
+The application is developed on Streamlit and can be deployed on the same server on Free Tier.
 
 
 # **Future Enhancements**
