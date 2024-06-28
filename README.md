@@ -85,7 +85,7 @@ System
 
 # **Solution Design**
 ## **Application Flow**
-![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.004.png)
+![App Flow](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.004.png)
 
 **Flow:**
 
@@ -101,7 +101,7 @@ By following this flow, the Chatbot facilitates a systematic approach to recruit
 
 
 2. ## **Technical Architecture**
-![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.005.png)
+![Technical Architecture](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.005.png)
 
 
 The Chatbot system for HR departments integrates several essential technology components to ensure functionality, efficiency, and user-friendliness:
@@ -116,7 +116,7 @@ Each selected technology component plays a critical role in the system's archite
 
 
 # **Deployment and End Result**
-![](Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.006.png)
+![Screenshot](Images/Aspose.Words.4d269d10-4368-4e45-b921-1bfc6330fb8e.003.png)
 
 The application is developed on Streamlit and can be deployed on the same server on Free Tier.
 
@@ -135,6 +135,6 @@ Below are specific recommendations to enrich the functionality of the system:
 These future enhancements aim to further elevate the functionality and utility of the system, aligning it with evolving technological trends and enhancing its value proposition to HR departments. By focusing on these recommendations, the system can adapt and scale effectively to meet the dynamic needs of recruitment processes while ensuring optimal user experience and operational efficiency.
 
 
-**Demo of Results:**
+# **Demo of Results:**
 
 [**Demo Link for HR Match Maker**](https://drive.google.com/file/d/1_tpmQiaErGEDCpqY-2fioDng8aNOB4ug/view?usp=sharing)
